@@ -1,0 +1,25 @@
+Aspen Plus是化工行业领先的过程仿真软件。
+
+Aspen Plus是一个生产装置设计、稳态模拟和优化的大型通用流程模拟系统。Aspen Plus是aspenONE®中的一个组件。
+
+Aspen Plus是大型通用流程模拟系统，源于美国能源部七十年代后期在麻省理工学院（MIT）组织的会战，开发新型第三代流程模拟软件。该项目称为“过程工程的先进系统”（Advanced System for Process Engineering，简称ASPEN），并于1981年底完成。1982年为了将其商品化，成立了AspenTech公司，并称之为Aspen Plus。
+
+该软件经过20多年来不断地改进、扩充和提高，已先后推出了十多个版本(几个重要版本的发布及终止支持日期如下)，成为举世公认的标准大型流程模拟软件，应用案例数以百万计。
+
+Version	Date Released	Date Support Ends
+aspenONE V9.0	25 May 2016	30 November 2020
+aspenONE V9.1	21 November 2016	30 November 2020
+aspenONE V10.0	05 June 2017	30 November 2021
+aspenONE V10.1	20 November 2017	30 November 2021
+aspenONE V11.0	April 2019	30 April 2023
+aspenONE V11.1	November 2019	30 November 2023
+
+工业AI的新时代
+
+企业可以通过普及人工智能应用并可以在企业云上部署来实现卓越运营和提高利润。从而：
+
+ 更轻松地解决复杂问题
+ 以更高的质量、准确度和企业数据访问来加速价值实现
+ 提供直观指导，更好地支持用户
+ 自动化和简化模型的创建和维护
+ 降低总成本
